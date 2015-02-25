@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Wyatt\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Wyatt\AndroidStudioProjects\BandSdkSample\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-6b71c968399c044a4d1685cfea84f8cf5ae2f1eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wyatt\AndroidStudioProjects\BandSdkSample\app\libs\microsoft-band-1.3.10215.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b0bfdf58d8785e033b2ba51ba746f7ebf7647e58">
+        <dex dex="C:\Users\Wyatt\AndroidStudioProjects\BandSdkSample\app\build\intermediates\pre-dexed\debug\microsoft-band-1.3.10215.1-0f6730d6dc30fdc6aa699fccfe7877de2bf3658c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wyatt\AndroidStudioProjects\BandSdkSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Wyatt\AndroidStudioProjects\BandSdkSample\app\build\intermediates\pre-dexed\debug\classes-4ec5e7eec99ef4cc8acd652b3baf97aef46b203b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Wyatt\AndroidStudioProjects\BandSdkSample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Wyatt\AndroidStudioProjects\BandSdkSample\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-1eddcfe21ce6efa90964b14ef4e03f66b654c7df.jar" />
+    </item>
+
+</items>
